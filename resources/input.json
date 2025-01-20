@@ -1,0 +1,57 @@
+{
+  "specialists": [
+    { "id": 1, "name": "Владимир Машков" },
+    { "id": 2, "name": "Данила Козловский" },
+    { "id": 3, "name": "Bob Marley" },
+    { "id": 4, "name": "Will Smith" },
+    { "id": 5, "name": "Шкипер" }
+  ],
+  "flights": [
+
+    {
+      "aircraft_type": "A320",
+      "aircraft_number": 101,
+      "takeoff_time": "2024-10-31T22:00:00",
+      "landing_time": "2024-12-01T01:00:00",
+      "departure_airport": "AMS",
+      "arrival_airport": "FLL",
+      "crew": [3, 4]
+    },
+    {
+      "aircraft_type": "A320",
+      "aircraft_number": 101,
+      "takeoff_time": "2024-12-31T22:00:00",
+      "landing_time": "2025-01-01T13:00:00",
+      "departure_airport": "AMS",
+      "arrival_airport": "FLL",
+      "crew": [3, 4]
+    },
+    {
+      "aircraft_type": "Boeing 767",
+      "aircraft_number": 102,
+      "takeoff_time": "2024-11-29T22:00:00",
+      "landing_time": "2024-12-01T01:00:00",
+      "departure_airport": "KUF",
+      "arrival_airport": "VVO",
+      "crew": [1, 2]
+    },
+    {
+      "aircraft_type": "Boeing 767",
+      "aircraft_number": 102,
+      "takeoff_time": "2024-12-02T12:00:00",
+      "landing_time": "2024-12-02T22:00:00",
+      "departure_airport": "KUF",
+      "arrival_airport": "VVO",
+      "crew": [1, 2]
+    },
+    {
+      "aircraft_type": "F4U Corsair",
+      "aircraft_number": 1,
+      "takeoff_time": "2024-12-02T12:00:00",
+      "landing_time": "2019-12-02T22:00:00",
+      "departure_airport": "XXX",
+      "arrival_airport": "XXX",
+      "crew": [5]
+    }
+  ]
+}

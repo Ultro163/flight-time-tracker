@@ -1,0 +1,141 @@
+{
+  "specialists": [
+    {
+      "id": 1,
+      "name": "Владимир Машков",
+      "monthlyData": [
+        {
+          "month": "2024-11",
+          "flightTimeHours": 26,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": true
+          }
+        },
+        {
+          "month": "2024-12",
+          "flightTimeHours": 11,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Данила Козловский",
+      "monthlyData": [
+        {
+          "month": "2024-11",
+          "flightTimeHours": 26,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": true
+          }
+        },
+        {
+          "month": "2024-12",
+          "flightTimeHours": 11,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bob Marley",
+      "monthlyData": [
+        {
+          "month": "2024-10",
+          "flightTimeHours": 2,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": true,
+            "daysOver8Hours": false
+          }
+        },
+        {
+          "month": "2024-11",
+          "flightTimeHours": 720,
+          "flags": {
+            "over80Hours": true,
+            "weeksOver36Hours": true,
+            "daysOver8Hours": true
+          }
+        },
+        {
+          "month": "2024-12",
+          "flightTimeHours": 3,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": false
+          }
+        },
+        {
+          "month": "2025-01",
+          "flightTimeHours": 13,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Will Smith",
+      "monthlyData": [
+        {
+          "month": "2024-10",
+          "flightTimeHours": 2,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": true,
+            "daysOver8Hours": false
+          }
+        },
+        {
+          "month": "2024-11",
+          "flightTimeHours": 720,
+          "flags": {
+            "over80Hours": true,
+            "weeksOver36Hours": true,
+            "daysOver8Hours": true
+          }
+        },
+        {
+          "month": "2024-12",
+          "flightTimeHours": 3,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": false
+          }
+        },
+        {
+          "month": "2025-01",
+          "flightTimeHours": 13,
+          "flags": {
+            "over80Hours": false,
+            "weeksOver36Hours": false,
+            "daysOver8Hours": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Шкипер",
+      "monthlyData": []
+    }
+  ]
+}
